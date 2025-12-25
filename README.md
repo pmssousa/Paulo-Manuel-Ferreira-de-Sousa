@@ -1,1 +1,1 @@
-# Paulo-Manuel-Ferreira-de-Sousa
+# Paulo Manuel Ferreira de Sousa
