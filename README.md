@@ -2,7 +2,7 @@
 
 ### Eng. Civil Senior, Investigador, Formador, Docente 
 <p align='left'>
-   📩 How to reach me: <a href='mailto:paulo.ferreiradesousa@outlook.pt'>paulo.ferreiradesousa@outlook.pt</a>
+   📩 How to reach me: <a href='mailto:paulo.ferreiradesousa@outlook.pt'>paulo.ferreiradesousa@outlook.pt</a> <a href='mailto:paulo.sousa@algoritmi.uminho.pt'>paulo.sousa@algoritmi.uminho.pt</a>
 </p>
 <p align='left'>
    📲 How to reach me: <a href='tel:+351 969 351 507'>+351 969 351 507</a>
