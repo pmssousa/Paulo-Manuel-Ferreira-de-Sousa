@@ -1,4 +1,4 @@
-# Paulo Manuel Ferreira de Sousa, MSc Project Management Engineering
+# Paulo Manuel Ferreira de Sousa, ## MSc Project Management Engineering
 
 ### Eng. Civil Senior, Investigador, Formador, Docente 
 <p align='left'>
