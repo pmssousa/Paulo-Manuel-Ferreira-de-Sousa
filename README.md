@@ -11,12 +11,14 @@
 A Senior Project Manager with more than 35 years of professional experience. I have excellent knowledge of projects funded by the European Commission, World Bank, BEI.
 I've worked with many cultures, many countries, and many industries. I am currently involved in several projects, using various methodologies and across several industries/services: automotive, pharmaceutical, healthcare, and education.
 
+ORCID 0000-0002-2575-0356 | WoS ID: ABP-2038-2022 | SCOPUS ID:57215017714 | Science VITAE: 3618-F7B8-8DCD
+
 <p align='center'>
    <a href="https://www.linkedin.com/in/paulomfsousa/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 
-## Certificações
+## Certifications
 *   Senior Project Manager - IPMA Level B.
 *   Certified Professional - PMI - PMOCP.
 *   Certified Product Onwer.
