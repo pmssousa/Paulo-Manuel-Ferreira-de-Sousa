@@ -9,7 +9,7 @@
 </p>
 
 A Senior Project Manager with more than 35 years of professional experience. I have excellent knowledge of projects funded by the European Commission, World Bank, BEI.
-In general, I've worked with many cultures and many countries.
+I've worked with many cultures, many countries, and many industries.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/paulomfsousa/">
