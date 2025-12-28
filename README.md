@@ -1,6 +1,6 @@
 # Paulo Manuel Ferreira de Sousa, MSc
 
-### Master of Science in Project Management Engineering Projects, Eng. Civil Senior, Investigador, Formador, Docente 
+### Master of Science in Project Management Engineering, Eng. Civil Senior, Investigador, Formador, Docente 
 <p align='left'>
    📩 How to reach me: <a href='mailto:paulo.ferreiradesousa@outlook.pt'>paulo.ferreiradesousa@outlook.pt</a> | <a href='mailto:paulo.sousa@algoritmi.uminho.pt'>paulo.sousa@algoritmi.uminho.pt</a>
 </p>
