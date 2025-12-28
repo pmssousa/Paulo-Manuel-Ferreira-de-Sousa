@@ -9,7 +9,7 @@
 </p>
 
 A Senior Project Manager with more than 35 years of professional experience. I have excellent knowledge of projects funded by the European Commission, World Bank, BEI.
-In general, I've worked with monolithic, microservice and serverless architectures.
+In general, I've worked with many cultures and many countries.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/paulomfsousa/">
@@ -22,10 +22,8 @@ In general, I've worked with monolithic, microservice and serverless architectur
 *   Certified Product Onwer.
 *   Certified Scrum Master.
 *   Certified Project Manager Prince2.
-*   Certifed Open Science Trainer
-*   Certificado de Competências Pedagógicas – CCP nº F621641/2015
-*   Creator and author of [romankh3](https://t.me/romankh3) Telegram channel. Subscribe to receive messages about my open-source activities.
-*   I write posts about software development.
+*   Certifed Open Science Trainer.
+*   Certificado de Competências Pedagógicas – CCP nº F621641/2015.
 
 ### Key points
 *   Creator of [CodeGym Community](https://github.com/codegymcommunity) and [Template Repository](https://github.com/template-repository) organizations.
